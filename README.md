@@ -1,6 +1,10 @@
 # Magnas
 Python application to scrape tweets of a user and get all responses. Data can be used as training sets for machine learning
 
+DEPENDANCIES:
+Tweepy: pip install tweepy
+
+STEPS:
 1) Download the .py files.
 2) Change the "user" field to the username that you want to scrape.
 3) Input your Consumer Key, Consumer Secret, Access Token, and Access Secret.
